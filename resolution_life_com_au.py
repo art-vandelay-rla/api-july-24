@@ -1,4 +1,5 @@
 import requests
+import sys
 
 # Credentials for the API
 auth = requests.auth.HTTPBasicAuth('philippa.hawk@resolutionlife.co.nz','fecf6e30-449e-11ef-b3fc-7a67b0c07e2e')
